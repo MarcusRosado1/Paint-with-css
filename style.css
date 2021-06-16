@@ -7,10 +7,11 @@ h2 { background-color: pink
   /* make the background-color your favorite color */
 }
 
-h3 { background-color: rgba(255, 99, 71, 0)
+h3 { background-color: tomato
+color:white
   /* make the background-color tomato and change the color property to make the text white */
 }
 
-p { font-size: 50
+p {font-size: 50px
   /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
 }
